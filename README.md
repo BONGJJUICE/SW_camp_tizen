@@ -1,1 +1,1 @@
-# SW_camp_tizen
+# software camp by tizen
